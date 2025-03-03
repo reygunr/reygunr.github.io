@@ -1,4 +1,4 @@
-let pits = [0, 0, 0, 0, 0, 1, 0, 4, 4, 4, 4, 4, 4, 0];
+let pits = [4, 4, 4, 4, 4, 4, 0, 4, 4, 4, 4, 4, 4, 0];
 let context;
 let board;
 let HeaderLine;
